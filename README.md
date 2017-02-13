@@ -11,6 +11,6 @@ Cara menginstall aplikasi ini pada komputer Anda :
 
 4. Buka browser Anda (Google, Firefox atau dll) 
 
-5. Ketikkan http://localhost/mahasiswa/ pada <i>search bar</i>
+5. Ketikkan <i><u>http://localhost/mahasiswa/</u></i> pada <i>search bar</i>
 
 6. Tekan Enter (selesai)
