@@ -1,4 +1,4 @@
-# mahasiswa
+# Mahasiswa
 Aplikasi CRUD Mahasiswa berbasis <i>web</i> ini menggunakan Framework Bootstrap-3.3.7, PHP 5.6.24, dan Framework CodeIgniter-3.1.0
 
 Cara menginstall aplikasi ini pada komputer Anda : 
