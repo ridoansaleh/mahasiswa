@@ -8,9 +8,12 @@ Cara menginstall aplikasi ini pada komputer Anda (untuk OS Windows) :
 2. Download dan paste-kan semua file di atas (kecuali mahasiswa.sql) pada folder mahasiswa 
 
 3. Import file mahasiswa.sql ke XAMPP
+   Terlebih dahulu buat database di XAMPP dengan nama mahasiswa. Kemudian, import file mahasiswa.sql ke database tersebut.
 
-4. Buka browser Anda (Google, Firefox atau dll) 
+4. Buka <i>browser</i> Anda (Google, Firefox atau dll) 
 
 5. Ketikkan http://localhost/mahasiswa/ pada <i>browser search bar</i>
 
-6. Tekan Enter (selesai)
+6. Tekan Enter dan Anda akan melihat tampilan aplikasi (selesai)
+
+- Selamat mencoba
