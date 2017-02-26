@@ -16,4 +16,4 @@ Cara menginstall aplikasi ini pada komputer Anda (untuk OS Windows) :
 
 6. Tekan Enter dan Anda akan melihat tampilan aplikasi (selesai)
 
-- Selamat mencoba
+<center> Selamat mencoba </center>
