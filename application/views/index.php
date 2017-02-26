@@ -7,10 +7,10 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title>Just another day</title>
     <!-- Bootstrap -->
-	<link rel="stylesheet" href="<?php echo base_url('style/css/bootstrap.min.css');?>">
-	<style type="text/css">
-		#jrs{ font-size: 19px; }
-	</style>
+    <link rel="stylesheet" href="<?php echo base_url('style/css/bootstrap.min.css');?>">
+    <style type="text/css">
+	#jrs{ font-size: 19px; }
+    </style>
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
